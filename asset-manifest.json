@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iste-game/static/css/main.308a5df1.css",
+    "main.js": "/iste-game/static/js/main.a01a832b.js",
+    "index.html": "/iste-game/index.html",
+    "main.308a5df1.css.map": "/iste-game/static/css/main.308a5df1.css.map",
+    "main.a01a832b.js.map": "/iste-game/static/js/main.a01a832b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308a5df1.css",
+    "static/js/main.a01a832b.js"
+  ]
+}
