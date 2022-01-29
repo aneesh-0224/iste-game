@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.308a5df1.css",
-    "main.js": "/static/js/main.104d0cb2.js",
-    "index.html": "/index.html",
-    "main.308a5df1.css.map": "/static/css/main.308a5df1.css.map",
-    "main.104d0cb2.js.map": "/static/js/main.104d0cb2.js.map"
+    "main.css": "/iste-game/static/css/main.308a5df1.css",
+    "main.js": "/iste-game/static/js/main.a01a832b.js",
+    "index.html": "/iste-game/index.html",
+    "main.308a5df1.css.map": "/iste-game/static/css/main.308a5df1.css.map",
+    "main.a01a832b.js.map": "/iste-game/static/js/main.a01a832b.js.map"
   },
   "entrypoints": [
     "static/css/main.308a5df1.css",
-    "static/js/main.104d0cb2.js"
+    "static/js/main.a01a832b.js"
   ]
 }
